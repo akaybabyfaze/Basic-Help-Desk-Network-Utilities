@@ -9,4 +9,24 @@ The project is a walkthrough of all the basic network utilities an IT or Help De
 <ul>
   <li>PowerShell</li>
 </ul> 
-<br />
+<h2>Program walk-through:</h2>
+<b>PING COMMAND</b> is used to test connectivity of a host machine to other devices on the network. It verifies if a computer can communicate with another computer or network device.
+<br/>
+<br/>
+<b>"Ping Localhost":</b>
+<br/>
+<img src="https://i.imgur.com/qO2AYPR.jpg" height="40%" width="70%" alt="Ping Localhost"/>
+<br/>
+<b>"Ping hostname"</b>": 
+<ul>
+  <li>Reachable - www.google.com</li>
+</ul>
+<img src="https://i.imgur.com/DhBtBiJ.jpg" height="40%" width="70%" alt="Hostname reachable"/>
+<ul>
+  <li>Unreachable - www.irctc.co.in</li>
+</ul>
+<img src="https://i.imgur.com/Jrrz8Q2.jpg" height="40%" width="70%" alt="Hostname uneachable"/>
+<br/>
+<br/>
+<b>"Tracert"</b>": looks at the connection between a host and a destination address. It provides details on all the <b>“hops”</b> the packet went through to get to the destination.
+<img src="https://i.imgur.com/TWktf2J.jpg" height="40%" width="70%" alt="Tracert"/>
