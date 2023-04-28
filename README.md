@@ -32,12 +32,13 @@ This command looks at the connection between a host and a destination address. I
 <img src="https://i.imgur.com/TWktf2J.jpg" height="40%" width="70%" alt="Tracert"/>
 You can also download and display the result in a text format by adding path and filename eg <b>"c:\tracertresults.txt"</b>
 <img src="https://i.imgur.com/ar326fB.jpg" height="40%" width="70%" alt="Tracert"/>
-<br/>
 <h4><b>"IPCONFIG COMMAND"</b></h4>
-his command generates host IP address, network mask, gateway for all physical and virtual network adapters, DNS Suffix
+This command generates host IP address, network mask, gateway for all physical and virtual network adapters, DNS Suffix
 <img src="https://i.imgur.com/Sl7XZU0.jpg"height="40%" width="70%" alt="ipconfig"/>
 You can also download and display the result in a text format by adding path and filename eg <b>"c:\tracertresults.txt"</b>
 <img src="https://i.imgur.com/ar326fB.jpg" height="40%" width="70%" alt="Tracert"/>
 <b>"IPCONFIG /all COMMAND:"</b> this command displays additional information than <b>"ipconfig"</b>. It displays MAC Address, DNS and WINS settings for each adapter.
 <img src="https://i.imgur.com/OvyIIwf.jpg"height="40%" width="70%" alt="ipconfig all"/>
-
+<h4><b>"NsLOOKUP COMMAND"</b></h4>
+This command identifies which DNS server the computer is currently configured to use for its DNS lookups. <b>Domain Name System (DNS)</b> resolves/maps internet address names with the respective IP addresses
+<img src="https://i.imgur.com/i18zIsj.jpg"height="40%" width="70%" alt="Nslookup"/>
